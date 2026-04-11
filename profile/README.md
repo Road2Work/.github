@@ -181,7 +181,7 @@ graph TD
     B --> D[Interview Engine]
     D --> E[Question Generator]
     D --> F[AI Evaluation Engine]
-    F --> G[NLP Model (TensorFlow)]
+    F --> G["NLP Model (TensorFlow)"]
     B --> H[Database]
 ```
 
