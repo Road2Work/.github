@@ -4,7 +4,7 @@
 
 <!-- Optional: replace with your logo -->
 
-<img src="https://via.placeholder.com/180x80?text=Road2Work.id" alt="Road2Work.id Logo" />
+<img src="https://s.jgu.ac.id/repo/1834a09f-5e98-11f1-a733-92218753e46b" alt="Road2Work.id Logo" />
 
 ### **Your Roadmap to a Better Career**
 
